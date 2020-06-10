@@ -26,8 +26,60 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 
 # 笔记
 
+* [开放系统认证和共享密钥身份认证](https://www.cnblogs.com/helloworldtoyou/p/9981900.html)
+
+* [WiFi初始化过程](https://www.cnblogs.com/helloworldtoyou/p/9599960.html)
+
+* [WiFi信号等级](https://www.cnblogs.com/helloworldtoyou/p/9667507.html)
+
 * [Qualcomm WCNSS_qcom_cfg.ini参数介绍](https://www.cnblogs.com/helloworldtoyou/p/10185674.html)
+
+* [打开WiFI驱动log](https://www.cnblogs.com/helloworldtoyou/p/9106385.html)
+
+* [Wifi提示无法访问网络](https://www.cnblogs.com/helloworldtoyou/p/8783265.html)
+
+* [查看WiFi配置是否生效](https://www.cnblogs.com/helloworldtoyou/p/9564825.html)
 
 * [Android WiFi 获取国家码](https://www.cnblogs.com/helloworldtoyou/p/9965019.html)
 
+* [主动扫描与被动扫描](https://www.cnblogs.com/helloworldtoyou/p/10149933.html)
+
+* [wpa_supplicant启动过程}(https://www.cnblogs.com/helloworldtoyou/p/9946648.html)
+
 * [wpa_supplicant black_list](https://www.cnblogs.com/helloworldtoyou/p/9667475.html)
+
+* [wpa_supplicant四次握手流程分析](https://www.cnblogs.com/helloworldtoyou/p/10000495.html)
+
+* [Wifi扫描流程_wpa_supplicant](https://www.cnblogs.com/helloworldtoyou/p/9958016.html)
+
+* [WiFi扫描流程_wpa_supplicant选择网络](https://www.cnblogs.com/helloworldtoyou/p/9961792.html)
+
+* [WiFi扫描时间间隔](https://www.cnblogs.com/helloworldtoyou/p/9667229.html)
+
+* [WiFi扫描过程](https://www.cnblogs.com/helloworldtoyou/p/9641477.html)
+
+* [qualcomm kernel beacon loss日志记录](https://www.cnblogs.com/helloworldtoyou/p/10178040.html)
+
+* [ASSOC_REJECT日志记录](https://www.cnblogs.com/helloworldtoyou/p/9958084.html)
+
+* [ASSOC_REJECT流程分析](https://www.cnblogs.com/helloworldtoyou/p/9935641.html)
+
+* [WiFi powersave测试](https://www.cnblogs.com/helloworldtoyou/p/9667549.html)
+
+* [四次握手日志记录](https://www.cnblogs.com/helloworldtoyou/p/9633603.html)
+
+* [WiFi评分机制分析](https://www.cnblogs.com/helloworldtoyou/p/9299762.html)
+
+* [查看PMF是否生效](https://www.cnblogs.com/helloworldtoyou/p/9564887.html)
+
+* [Wifi OKC验证](https://www.cnblogs.com/helloworldtoyou/p/10676490.html)
+
+* [WFA认证_sigma_dut启动方法](https://www.cnblogs.com/helloworldtoyou/p/9047018.html)
+
+* [hostapd作为radius服务器](https://www.cnblogs.com/helloworldtoyou/p/8033072.html)
+
+* [cisco无线控制器配置radius](https://www.cnblogs.com/helloworldtoyou/p/8033148.html)
+
+* [锐捷AC AP连接记录](https://www.cnblogs.com/helloworldtoyou/p/8119602.html)
+
+* [锐捷 Fat/Fit Ap切换](https://www.cnblogs.com/helloworldtoyou/p/8082149.html)
