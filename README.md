@@ -44,7 +44,7 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 
 * [主动扫描与被动扫描](https://www.cnblogs.com/helloworldtoyou/p/10149933.html)
 
-* [wpa_supplicant启动过程}(https://www.cnblogs.com/helloworldtoyou/p/9946648.html)
+* [wpa_supplicant启动过程](https://www.cnblogs.com/helloworldtoyou/p/9946648.html)
 
 * [wpa_supplicant black_list](https://www.cnblogs.com/helloworldtoyou/p/9667475.html)
 
