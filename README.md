@@ -34,6 +34,8 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 
 * [Qualcomm WCNSS_qcom_cfg.ini参数介绍](https://www.cnblogs.com/helloworldtoyou/p/10185674.html)
 
+* [WCNSS_qcom_cfg.ini解读流程](https://www.cnblogs.com/helloworldtoyou/p/9471767.html)
+
 * [打开WiFI驱动log](https://www.cnblogs.com/helloworldtoyou/p/9106385.html)
 
 * [Wifi提示无法访问网络](https://www.cnblogs.com/helloworldtoyou/p/8783265.html)
