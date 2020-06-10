@@ -16,7 +16,18 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 
 * [世界各个地区WIFI 2.4G及5G信道一览表](https://www.sohu.com/a/143179782_202311)
 
+# WiFi抓包工具
+
+* [omnipeek](https://www.liveaction.com/products/omnipeek-network-protocol-analyzer/)
+
+* [wireshark](https://www.wireshark.org/)
+  
+  抓包工具需要配合网卡来抓包。比较推荐omnipeek，可读性比较高，是付费软件。
+
 # 笔记
+
+* [Qualcomm WCNSS_qcom_cfg.ini参数介绍](https://www.cnblogs.com/helloworldtoyou/p/10185674.html)
 
 * [Android WiFi 获取国家码](https://www.cnblogs.com/helloworldtoyou/p/9965019.html)
 
+* [wpa_supplicant black_list](https://www.cnblogs.com/helloworldtoyou/p/9667475.html)
