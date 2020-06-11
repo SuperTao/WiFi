@@ -85,3 +85,5 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 * [锐捷AC AP连接记录](https://www.cnblogs.com/helloworldtoyou/p/8119602.html)
 
 * [锐捷 Fat/Fit Ap切换](https://www.cnblogs.com/helloworldtoyou/p/8082149.html)
+
+* [QRCT导入导出WiFi配置文件](./doc/QRCT导入导出WiFi配置文件.md)
