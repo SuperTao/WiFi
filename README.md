@@ -16,7 +16,7 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 
 * [世界各个地区WIFI 2.4G及5G信道一览表](https://www.sohu.com/a/143179782_202311)
 
-# WiFI知识
+# WiFi知识
 
 * [WiFi 6介绍](https://www.zhihu.com/question/346576273/answer/830683787)
 
@@ -29,7 +29,7 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 
 * [wireshark](https://www.wireshark.org/)
   
-  抓包工具需要配合网卡来抓包。比较推荐omnipeek，可读性比较高，是付费软件。
+  抓包工具需要配合网卡来抓包。比较推荐omnipeek，可读性比较高。
 
 # 笔记
 
