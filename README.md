@@ -16,6 +16,13 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 
 * [世界各个地区WIFI 2.4G及5G信道一览表](https://www.sohu.com/a/143179782_202311)
 
+# WiFI知识
+
+* [WiFi 6介绍](https://www.zhihu.com/question/346576273/answer/830683787)
+
+* [WLAN“漫游”纵谈](http://www.h3c.com/cn/d_201708/1018838_30005_0.htm)
+
+
 # WiFi抓包工具
 
 * [omnipeek](https://www.liveaction.com/products/omnipeek-network-protocol-analyzer/)
@@ -87,5 +94,3 @@ WiFi现在已经非常的普及了，大家生活中都会接触到。对于开�
 * [锐捷 Fat/Fit Ap切换](https://www.cnblogs.com/helloworldtoyou/p/8082149.html)
 
 * [QRCT导入导出WiFi配置文件](./doc/QRCT导入导出WiFi配置文件.md)
-
-* [WiFi 6介绍](https://www.zhihu.com/question/346576273/answer/830683787)
